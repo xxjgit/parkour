@@ -1,0 +1,18 @@
+{
+  "name": "streetparkour",
+  "version": "1.0.0",
+  "description": "街头跑酷",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.appshahe.com/xianjie.xia/streetparkour.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "odin": "^3.0.0"
+  }
+}
