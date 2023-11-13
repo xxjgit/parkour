@@ -1,0 +1,4 @@
+﻿{
+	"CustomType": "uppercloth",
+	"CustomData": "{\"realData\":\"[{\\\"apiName\\\":\\\"setUpperClothMesh\\\",\\\"value\\\":\\\"114640\\\",\\\"saveFileType\\\":\\\"UpperCloth\\\"},{\\\"apiName\\\":\\\"setUpperClothClothColor\\\",\\\"value\\\":\\\"#1|R=0.00784,G=0.043738,B=0.088542,A=1#0|R=0.031196,G=0.072876,B=0.260417,A=1#2|R=0.024384,G=0.063591,B=0.197917,A=1\\\",\\\"saveFileType\\\":\\\"UpperCloth\\\"}]\",\"characterType\":\"Lowpoly_Adult_Male\",\"version\":\"2.0\"}"
+}
