@@ -1,0 +1,4 @@
+﻿{
+	"CustomType": "shoe",
+	"CustomData": "{\"realData\":\"[{\\\"apiName\\\":\\\"setShoeMesh\\\",\\\"value\\\":\\\"115231\\\",\\\"saveFileType\\\":\\\"Shoe\\\"},{\\\"apiName\\\":\\\"setShoeClothColor\\\",\\\"value\\\":\\\"#0|R=0.004012,G=0.012749,B=0.046875,A=1\\\",\\\"saveFileType\\\":\\\"Shoe\\\"}]\",\"characterType\":\"Lowpoly_Adult_Male\",\"version\":\"2.0\"}"
+}
